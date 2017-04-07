@@ -1,0 +1,32 @@
+{
+  "name": "romamovchan",
+  "description": "Personal information about me",
+  "main": "index.js",
+  "authors": [
+    "Roma Movchan"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "web-developer",
+    "angular",
+    "angularJS",
+    "gulp",
+    "npm",
+    "React",
+    "Redux",
+    "Node"
+  ],
+  "homepage": "https://github.com/RomaMovchan/RomaMovchan.github.io",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "2.*"
+  }
+}

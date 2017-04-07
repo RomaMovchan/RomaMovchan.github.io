@@ -1,0 +1,13 @@
+//@import "../../bower_components/normalize.css/normalize.css";
+
+$color: red;
+
+p {
+  color:$color;
+}
+
+div {
+  width: 100px;
+  border-radius: 20px;
+  height: 100px;
+}
